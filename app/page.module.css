@@ -12,6 +12,7 @@
     display: flex;
     align-items: center;
     margin-top: auto;
+    column-gap: 1rem;
 }
 
 .sliderContainer{

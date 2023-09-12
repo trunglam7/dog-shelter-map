@@ -182,7 +182,7 @@ export default function Map({data, topology, filter} : MapProps) {
 
 
         }
-    }, [topology, data, filter])
+    }, [topology, topologyData, data, filter])
 
     return (
         <>
